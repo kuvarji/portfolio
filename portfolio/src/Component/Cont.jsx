@@ -10,7 +10,7 @@ function Cont() {
 
 const handleSubmit=(e)=>{
     e.preventDefault()
-    axios.post("http://localhost:3000/contact", {name , mobile, add})
+    axios.post("https://portfolio-server-9o8j.onrender.com/contact", {name , mobile, add})
     .then(result => console.log(result.data))
    
     .catch(err => console.log(err))
