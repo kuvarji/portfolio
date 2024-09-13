@@ -23,10 +23,8 @@ function Kp(params) {
      I’m <span className="text-green-400">Kuvarji</span>,
     
     <br />
-    Web Developer and
-    <br />
-   
-     Software Engineer
+   FullStack Web Developer
+
     </h1>
     </div>
     </div>
