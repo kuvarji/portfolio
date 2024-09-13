@@ -62,7 +62,7 @@ function Edi() {
 <div className='ml-8'>
 
 <div  className=' text-3xl text-slate-50 font-rale font-thin pt-4' >
-<h1 >Bachelor Of Technology (CSE)</h1>
+<h1 >Bachelor Of Science (C.S)</h1>
 </div>
 
 
