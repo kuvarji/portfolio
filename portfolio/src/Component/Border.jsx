@@ -63,7 +63,7 @@ Kuvarji Gupta
 
 <div className=" mt-5   md:mt-5 md:pl-9">
 <span className="font-rale text-slate-300 font-thin text-center text-xs">
-© 2023 Shivam. All Right Reserved
+© 2023 Kuvarji. All Right Reserved
 </span>
 </div>
 
